@@ -17,9 +17,8 @@ title: hardtofind. static
 email: support@hardtofind.com.au
 description: >- # this means to ignore newlines until "baseurl:"
   This stores static pages for Hardtofind's website.
-baseurl: "/static" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://hardtofind.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-
 
 # Build settings
 markdown: kramdown
